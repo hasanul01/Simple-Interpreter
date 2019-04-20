@@ -1,5 +1,5 @@
 # Implementasi Teori Bahasa Formal dan Automata, DFA dan NFA
-Interpreter sederhana yang menerima input dan memberikan output berdasarkan aturan yang tersedia
+Interpreter sederhana yang menerima input dan memberikan output berdasarkan aturan.
 
 ### Bahasa
 - C++ 
